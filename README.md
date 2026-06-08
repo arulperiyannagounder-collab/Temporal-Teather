@@ -1,4 +1,5 @@
 **#Temporal Tether**
+
 Hey! Welcome to Temporal Tether.
 
 Most simple games give you a paddle to hit a ball. I wanted to build something different. In this game, you control an anti-gravity anomaly. Instead of hitting the ball, you catch it in your field, reverse its gravity, and slingshot it around the screen.
